@@ -1,2 +1,1 @@
-# Resume
- https://mariadash.github.io/Resume/
+# [My resume site](https://mariadash.github.io)
