@@ -1,1 +1,1 @@
-# [My resume site](https://mariadash.github.io)
+# [My Resume Site](https://mariadash.github.io)
