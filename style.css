@@ -43,7 +43,7 @@ hr {
     height: 1px;
 }
 
-h1,  {
+h1  {
     font-weight: 100;
     margin-bottom: 0;
 }
@@ -56,4 +56,7 @@ h2 {
  }
  .text-justify {
     text-align: justify;
+ }
+ ul {
+    margin-left: -1em;
  }
