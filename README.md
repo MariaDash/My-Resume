@@ -1,1 +1,1 @@
-[My Resume](https://github.com/MariaDash/mariadash.github.io)
+[My Resume](mariadash.github.io)
